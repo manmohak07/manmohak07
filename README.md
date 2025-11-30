@@ -1,6 +1,6 @@
 # Hi, I’m Mohak 👋
 
-I'm a final-year Computer Science student at KIIT University, currently interning at L&T Technology Services. I enjoy solving practical problems with code, especially through automation. My interests orbit around backend architecture, finance, and making tools that quietly do their job, reliably.
+I enjoy solving practical problems with code, especially through automation. My interests orbit around backend architecture, finance, and making tools that quietly do their job, reliably.
 
 ---
 
