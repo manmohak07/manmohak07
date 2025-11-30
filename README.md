@@ -4,14 +4,14 @@ I enjoy solving practical problems with code, especially through automation. My 
 
 ---
 
-## 🔧 What I Work On
+## What I Work On
 
 - Currently automating repetitive sub-processes in major engineering problems  
 - Deploying small automation tools via AWS. Infrastructure is growing on me
 
 ---
 
-## 🌱 What I’m Learning
+## What I’m Learning
 
 - More about backend systems and distributed architecture  
 - Low-level system design (and trying to not panic every time someone says “event-driven”)  
@@ -20,7 +20,7 @@ I enjoy solving practical problems with code, especially through automation. My 
 
 ---
 
-## 🧠 Ask Me About
+## Ask Me About
 
 - Java and Spring Boot  
 - Math and logic puzzles  
@@ -28,7 +28,7 @@ I enjoy solving practical problems with code, especially through automation. My 
 
 ---
 
-## 🚀 Some Projects I’m Proud Of
+## Some Projects I’m Proud Of
 
 - **SmartMail Assistant**  
   A full-stack tool and Chrome extension to generate smart email replies using Gemini API  
@@ -44,7 +44,7 @@ I enjoy solving practical problems with code, especially through automation. My 
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohak-agrawal-440115230/)  
 - [Email](mailto:agrawalmohak988@gmail.com)  
@@ -52,7 +52,7 @@ I enjoy solving practical problems with code, especially through automation. My 
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 Time goes slower the farther you go into a gravity well.  
 Your head is literally older than your feet.
